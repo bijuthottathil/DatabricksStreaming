@@ -31,6 +31,30 @@ Queried target table
 
 ![image](https://github.com/user-attachments/assets/600052d8-9df8-442f-9d50-757366231ae3)
 
+Next we will insert some data in books table and see how it is reflecting in streaming query
+
+![image](https://github.com/user-attachments/assets/12ab494a-a8bf-49e0-b897-40bba1882ca3)
+added one more batch
+
+![image](https://github.com/user-attachments/assets/4becb2b5-d9cc-4a8f-b588-e1a4bc29f276)
+
+streaming is still running and added data 
+
+![image](https://github.com/user-attachments/assets/f6f0bb5f-f8e0-4579-8c50-bbe696e7574e)
+
+If we query author_counts, you can see updated table records count
+
+![image](https://github.com/user-attachments/assets/ee7fbfe0-24ae-44cb-a88e-e0f1c0de5fab)
+
+No I cancelled streaming query . will see another scenario  to copy all available batch to destination
+
+![image](https://github.com/user-attachments/assets/9d252e19-bca4-4a1b-9566-025fcd0e804e)
+
+Here you can see, whatever available entries loaded to destination table using  .trigger(availableNow=True)
+
+![image](https://github.com/user-attachments/assets/df000150-dd09-499b-9189-5c41578644e6)
+
+
 
 
 
