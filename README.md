@@ -15,4 +15,22 @@ Dashboard will give visual view
 
 ![image](https://github.com/user-attachments/assets/4583a411-21fb-47a8-a579-843b9409f627)
 
+Raw data also visible
+
+![image](https://github.com/user-attachments/assets/69e0a0cd-e4fe-4178-8ec3-720ad9926fb9)
+
+![image](https://github.com/user-attachments/assets/d6ef93b0-a4ce-481e-a765-3c0e3e2f986e)
+
+now we  are using dataframe to write streaming query data to a storage
+
+![image](https://github.com/user-attachments/assets/9bbdd52f-7998-45f1-8adc-62c987d88326)
+
+![image](https://github.com/user-attachments/assets/223db625-276c-436a-ac43-8a078aef6581)
+
+Queried target table
+
+![image](https://github.com/user-attachments/assets/600052d8-9df8-442f-9d50-757366231ae3)
+
+
+
 
